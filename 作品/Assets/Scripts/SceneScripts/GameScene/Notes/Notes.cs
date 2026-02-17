@@ -1,0 +1,14 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary>
+/// í èÌÉmÅ[Éc
+/// </summary>
+public class Notes : NotesBase
+{
+    protected override void MoveNote()
+    {
+        base.MoveNote();
+    }
+}

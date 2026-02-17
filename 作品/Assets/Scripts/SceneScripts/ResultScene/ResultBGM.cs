@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ResultBGM : MonoBehaviour
+{
+    //BGMÇçƒê∂Ç∑ÇÈ
+    public void BGMStart()
+    {
+        BGMManager.instance.SetBGMState(BGMType.RESULT);
+    }
+
+    //BGMÇé~ÇﬂÇÈ
+    public void StopBGM()
+    {
+        BGMManager.instance.BGMStop();
+    }
+
+
+}
