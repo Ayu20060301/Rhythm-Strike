@@ -1,0 +1,1217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\manager\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\manager\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|c:\\users\\gunan\\desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\songselectscene\\songpreviewplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\songselectscene\\songpreviewplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\singleton\\sounds\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleton\\sounds\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\song\\songdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\song\\songdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\songselectscene\\songselectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\songselectscene\\songselectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\notesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\notesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\song\\difficultydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\song\\difficultydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\songselectscene\\songselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\songselectscene\\songselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\songselectscene\\levelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\songselectscene\\levelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\song\\songdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\song\\songdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\songheaderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\songheaderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\singleton\\gmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleton\\gmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\menuscene\\menuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\menuscene\\menuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\menuscene\\menuselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\menuscene\\menuselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\pause\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\pause\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\optionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\optionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\optionscenecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\optionscenecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\pause\\pauseoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\pause\\pauseoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\InputHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\shader\\selectframe.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\selectframe.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\StageSelectFrame.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\optionkeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\optionkeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\notesoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\notesoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\judgedisplayoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\judgedisplayoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\effectoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\effectoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\timingoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\timingoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\volumeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\volumeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\gamebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\gamebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\system\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\lanelight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\lanelight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\gameendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\gameendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosaicAlpha.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosacAlpha.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\misseffectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\misseffectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\farland skies\\low poly\\shaders\\lowpolyskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\farland skies\\low poly\\shaders\\lowpolyskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\objectspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\objectspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\farland skies\\low poly\\scripts\\controllers\\skyboxdaynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\farland skies\\low poly\\scripts\\controllers\\skyboxdaynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\menuscene\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\menuscene\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\menuscene\\menubgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\menuscene\\menubgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\text\\starttextanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\text\\starttextanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\text\\readytextanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\text\\readytextanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Downloads\\DoragonHunter-main\\DoragonHunter-main\\MonsterHunter\\Assets\\TutorialInfo\\Scripts\\Readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\system\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\system\\basescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\basescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\system\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\notes\\notesdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\notes\\notesdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DatabaseManager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\damagenotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\damagenotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\jumpnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\jumpnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\coinnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\coinnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\gamescene\\notes\\notesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\gamescene\\notes\\notesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\titlescene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\titlescene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\menuscene\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\menuscene\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\data\\scripts\\movie\\tutorialmoviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scripts\\movie\\tutorialmoviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\optionscene\\optionbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\optionscene\\optionbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\titlescene\\gameexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\titlescene\\gameexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\titlescene\\blinktext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\titlescene\\blinktext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\titlescene\\uifadeandgrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\titlescene\\uifadeandgrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\assets\\scripts\\scenescripts\\titlescene\\titlebgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F146AD-4FF9-E2AE-1A13-190ECC167FC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenescripts\\titlescene\\titlebgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NoteOption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\StageSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\LevelAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\StageDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ParticleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\MusicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\BGMManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\SoundEffectManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\GManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\JudgeCore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Judge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ResultScene\\GameResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\SceneScripts\\ResultScene\\GameResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:48:22.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DifficultyData.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\DifficultyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Song\\DifficultyData.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\DifficultyData.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Song\\DifficultyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:02:56.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongSelectUI.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectUI.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectUI.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:58:40.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\SongSelectScene\\LevelAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneScripts\\SongSelectScene\\LevelAnimator.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\SongSelectScene\\LevelAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneScripts\\SongSelectScene\\LevelAnimator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:24:29.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SongHeaderUI.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\SongHeaderUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\SongHeaderUI.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\SongHeaderUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\SongHeaderUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:20:34.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SongDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\SongDataBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Song\\SongDataBase.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\SongDataBase.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Song\\SongDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:06:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\Singleton\\GManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\GManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\Singleton\\GManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\GManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:28:19.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OptionSceneContext.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionSceneContext.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionSceneContext.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionSceneContext.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionSceneContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:16:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PauseOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Pause\\PauseOverlay.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Pause\\PauseOverlay.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Pause\\PauseOverlay.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Pause\\PauseOverlay.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:44:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DataBaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Manager\\DataBaseManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DataBaseManager.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Manager\\DataBaseManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:47:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongPreviewPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\SongSelectScene\\SongPreviewPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneScripts\\SongSelectScene\\SongPreviewPlayer.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\SongSelectScene\\SongPreviewPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneScripts\\SongSelectScene\\SongPreviewPlayer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAASwEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:16:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\Singleton\\Sounds\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\Sounds\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\Singleton\\Sounds\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\Sounds\\MusicManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:55:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongSelectController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\SongSelectScene\\SongSelectController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:14:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongData.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\SongData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Song\\SongData.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\SongData.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Song\\SongData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:00:52.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvyIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:12:52.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\ResultScene\\GameResult.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneScripts\\ResultScene\\GameResult.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\ResultScene\\GameResult.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneScripts\\ResultScene\\GameResult.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:32:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuUIController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\MenuScene\\MenuUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneScripts\\MenuScene\\MenuUIController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\MenuScene\\MenuUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneScripts\\MenuScene\\MenuUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:56:57.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\GameScene\\Pause\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneScripts\\GameScene\\Pause\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Scripts\\SceneScripts\\GameScene\\Pause\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneScripts\\GameScene\\Pause\\PauseManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:41:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Judge.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Judge.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Judge.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Judge.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Judge.cs",
+              "ViewState": "AgIAALMBAAAAAAAAAAAmwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:02:50.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuSelect.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\MenuSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\MenuScene\\MenuSelect.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\MenuSelect.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\MenuScene\\MenuSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:59:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StageSelectFrame.shader",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\StageSelectFrame.shader",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\StageSelectFrame.shader",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\StageSelectFrame.shader",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\StageSelectFrame.shader",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-09T16:03:27.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\MusicManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\MusicManager.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\MusicManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:08:48.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VolumeOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\VolumeOption.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\VolumeOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\VolumeOption.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\VolumeOption.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAA3wI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:22:06.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StageDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\StageDataBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\StageDataBase.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\StageDataBase.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Song\\StageDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:06:20.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "JudgeCore.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\JudgeCore.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\JudgeCore.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\JudgeCore.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\JudgeCore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:39:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\InputHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\InputHandler.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\InputHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:47:20.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JudgeDisplayOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\JudgeDisplayOption.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\JudgeDisplayOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\JudgeDisplayOption.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\JudgeDisplayOption.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:04:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SelectFrame.shader",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\SelectFrame.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SelectFrame.shader",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\SelectFrame.shader",
+              "RelativeToolTip": "Assets\\Shader\\SelectFrame.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-12T19:15:08.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EffectOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\EffectOption.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\EffectOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\EffectOption.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\EffectOption.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:58:22.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimingOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\TimingOption.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\TimingOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\TimingOption.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\TimingOption.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:16:44.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotesOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NotesOption.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\NotesOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NotesOption.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\NotesOption.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:39:27.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OptionKeyController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionKeyController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionKeyController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionKeyController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionKeyController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:40:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "StageSelect.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\StageSelect.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\StageSelect.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\StageSelect.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\StageSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:45:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GameFlowManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\GameFlowManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameFlowManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\GameFlowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:19:02.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MissEffectController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\MissEffectController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\MissEffectController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\MissEffectController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\MissEffectController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:37:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "NoteOption.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NoteOption.cs",
+              "RelativeDocumentMoniker": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NoteOption.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NoteOption.cs",
+              "RelativeToolTip": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\NoteOption.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:07:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DatabaseManager1.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DatabaseManager1.cs",
+              "RelativeDocumentMoniker": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DatabaseManager1.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DatabaseManager1.cs",
+              "RelativeToolTip": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Manager\\DatabaseManager1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:50:04.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LowPolySkybox.shader",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Farland Skies\\Low Poly\\Shaders\\LowPolySkybox.shader",
+              "RelativeDocumentMoniker": "Assets\\Farland Skies\\Low Poly\\Shaders\\LowPolySkybox.shader",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Farland Skies\\Low Poly\\Shaders\\LowPolySkybox.shader",
+              "RelativeToolTip": "Assets\\Farland Skies\\Low Poly\\Shaders\\LowPolySkybox.shader",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAABABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-01T08:30:02.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FadeManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\FadeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\system\\FadeManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\FadeManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\system\\FadeManager.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:45:42.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Downloads\\DoragonHunter-main\\DoragonHunter-main\\MonsterHunter\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\DoragonHunter-main\\DoragonHunter-main\\MonsterHunter\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\gunan\\Downloads\\DoragonHunter-main\\DoragonHunter-main\\MonsterHunter\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\DoragonHunter-main\\DoragonHunter-main\\MonsterHunter\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:50:17.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAowP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:28:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameBar.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameBar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\GameBar.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameBar.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\GameBar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:35:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TMP_FontAsset.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMP_FontAsset.cs",
+              "ViewState": "AgIAAAwLAAAAAAAAAAAewB0LAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:39:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MosacAlpha.shader",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosacAlpha.shader",
+              "RelativeDocumentMoniker": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosacAlpha.shader",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosacAlpha.shader",
+              "RelativeToolTip": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosacAlpha.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-01T14:52:44.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LaneLight.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\LaneLight.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\LaneLight.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\LaneLight.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\LaneLight.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T02:51:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MosaicAlpha.shader",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosaicAlpha.shader",
+              "RelativeDocumentMoniker": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosaicAlpha.shader",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosaicAlpha.shader",
+              "RelativeToolTip": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Shader\\MosaicAlpha.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-01T14:58:23.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameEndController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameEndController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\GameEndController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\GameEndController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\GameEndController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:34:46.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ObjectSpin.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T02:50:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Light.cs",
+              "RelativeDocumentMoniker": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Light.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Light.cs",
+              "RelativeToolTip": "..\\Rhythm Strike\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Light.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T02:37:05.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SkyboxDayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Farland Skies\\Low Poly\\Scripts\\Controllers\\SkyboxDayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Farland Skies\\Low Poly\\Scripts\\Controllers\\SkyboxDayNightCycle.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Farland Skies\\Low Poly\\Scripts\\Controllers\\SkyboxDayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Farland Skies\\Low Poly\\Scripts\\Controllers\\SkyboxDayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T02:48:39.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TutorialController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\TutorialController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\MenuScene\\TutorialController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\TutorialController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\MenuScene\\TutorialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:52:45.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\Notes.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\Notes.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\Notes.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:37:38.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MenuBGM.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\MenuBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\MenuScene\\MenuBGM.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\MenuBGM.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\MenuScene\\MenuBGM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:58:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StartTextAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Text\\StartTextAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Text\\StartTextAnimation.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Text\\StartTextAnimation.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Text\\StartTextAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:23:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReadyTextAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Text\\ReadyTextAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Text\\ReadyTextAnimation.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Text\\ReadyTextAnimation.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Text\\ReadyTextAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:11:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ParticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ParticleManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ParticleManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ParticleManager.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\ParticleManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:07:07.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BGMManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\BGMManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\BGMManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\BGMManager.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\BGMManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:16:17.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SoundEffectManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\SoundEffectManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\SoundEffectManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\SoundEffectManager.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\Sounds\\SoundEffectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:08:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseScene.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\BaseScene.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\system\\BaseScene.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\BaseScene.cs",
+              "RelativeToolTip": "Assets\\scripts\\system\\BaseScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:06:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\system\\SceneController.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\SceneController.cs",
+              "RelativeToolTip": "Assets\\scripts\\system\\SceneController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:59:41.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\system\\LoadingManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\system\\LoadingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:45:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\GManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\GManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\GManager.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\system\\GManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:45:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NotesDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Notes\\NotesDataBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Notes\\NotesDataBase.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Notes\\NotesDataBase.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Notes\\NotesDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:53:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CoinNotes.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\CoinNotes.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\CoinNotes.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\CoinNotes.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\CoinNotes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:38:42.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DamageNotes.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\DamageNotes.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\DamageNotes.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\DamageNotes.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\DamageNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:38:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JumpNotes.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\JumpNotes.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\JumpNotes.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\JumpNotes.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\JumpNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:38:13.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NotesBase.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesBase.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesBase.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesBase.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\GameScene\\Notes\\NotesBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:22:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\TitleScene\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\TitleScene.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\TitleScene\\TitleScene.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:55:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TutorialMovieData.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Movie\\TutorialMovieData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scripts\\Movie\\TutorialMovieData.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\Data\\Scripts\\Movie\\TutorialMovieData.cs",
+              "RelativeToolTip": "Assets\\Data\\Scripts\\Movie\\TutorialMovieData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:37:01.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\MenuScene\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\MenuScene\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\MenuScene\\TutorialManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:41:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OptionBGM.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionBGM.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\OptionScene\\OptionBGM.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\OptionScene\\OptionBGM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:11:30.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BlinkText.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\BlinkText.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\TitleScene\\BlinkText.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\BlinkText.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\TitleScene\\BlinkText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:56:13.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UIFadeAndGrow.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\UIFadeAndGrow.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\TitleScene\\UIFadeAndGrow.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\UIFadeAndGrow.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\TitleScene\\UIFadeAndGrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:53:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GameExit.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\GameExit.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\TitleScene\\GameExit.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\GameExit.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\TitleScene\\GameExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:52:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TitleBGM.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\TitleBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneScripts\\TitleScene\\TitleBGM.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\TitleScene\\TitleBGM.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneScripts\\TitleScene\\TitleBGM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:52:06.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LevelAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\LevelAnimator.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\LevelAnimator.cs",
+              "ToolTip": "C:\\Users\\gunan\\Desktop\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\LevelAnimator.cs",
+              "RelativeToolTip": "..\\..\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u5C31\u6D3B\u4F5C\u54C1\\\u4F5C\u54C1\\Assets\\scripts\\SceneScripts\\StageSelectScene\\LevelAnimator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:46:47.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
