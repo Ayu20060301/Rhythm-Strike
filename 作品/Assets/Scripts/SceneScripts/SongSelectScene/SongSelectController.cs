@@ -114,12 +114,8 @@ public class SongSelectController : MonoBehaviour
         //範囲外防止
         _selectIndex = Mathf.Clamp(_selectIndex, 0, _songDB.songData.Count - 1);
 
-        //曲を変えたら難易度をリセット
-        _difficultyIndex = 0;
-
         //UIの更新
         _songSelectUI.SetIndex(_selectIndex);
-        _songSelectUI.UpdateDifficulty(CurrentDifficulty);
 
         //プレビュー音再生
         _songPreviewPlayer.PlayPreview(_selectIndex);
