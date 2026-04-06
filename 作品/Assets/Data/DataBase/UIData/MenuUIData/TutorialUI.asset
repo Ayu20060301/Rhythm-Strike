@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: TutorialUI
   m_EditorClassIdentifier: 
   id: 1
-  menuUI: {fileID: 21300000, guid: 1adfa9b7c0a00d14885b1410847d7391, type: 3}
+  menuUI: {fileID: 21300000, guid: 4eb07e57c453d66408a9072d3920c922, type: 3}
   type: 2
   stopBGMOnDecide: 0

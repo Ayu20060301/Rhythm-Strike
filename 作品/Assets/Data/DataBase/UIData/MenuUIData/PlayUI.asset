@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: PlayUI
   m_EditorClassIdentifier: 
   id: 0
-  menuUI: {fileID: 21300000, guid: 6faade7de1b44ee4c8a009aef09e0f08, type: 3}
+  menuUI: {fileID: 21300000, guid: c56489530d4ce484c828e7d7335b7513, type: 3}
   type: 3
+  stopBGMOnDecide: 1
