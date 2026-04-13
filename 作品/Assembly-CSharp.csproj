@@ -99,7 +99,6 @@
     <Compile Include="Assets\Scripts\SceneScripts\GameScene\Text\ReadyTextAnimation.cs" />
     <Compile Include="Assets\3DModel\UnityChan\Scripts\SpringCollider.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\MenuScene\TutorialManager.cs" />
-    <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\InputHandler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
@@ -145,7 +144,6 @@
     <Compile Include="Assets\Scripts\SceneScripts\GameScene\SongHeaderUI.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\TitleScene\TitleScene.cs" />
     <Compile Include="Assets\Data\Scripts\Song\SongDataBase.cs" />
-    <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\JudgeCore.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\GameScene\ScoreManager.cs" />
     <Compile Include="Assets\Data\Scripts\UI\RankUIData.cs" />
     <Compile Include="Assets\Farland Skies\Low Poly\Demo\Standart\Scripts\UI\TimeText.cs" />
@@ -165,7 +163,6 @@
     <Compile Include="Assets\Scripts\SceneScripts\TitleScene\GameExit.cs" />
     <Compile Include="Assets\UnityChan.SpringBone\Script\Utility\DirectoryUtil.cs" />
     <Compile Include="Assets\Data\Scripts\Particle\ParticleData.cs" />
-    <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\JudgeManager.cs" />
     <Compile Include="Assets\UnityChan.SpringBone\Script\SpringBone\SpringBonePivot.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\Judge.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -203,7 +200,6 @@
     <Compile Include="Assets\UnityChan.SpringBone\Script\Utility\GameObjectUtil.cs" />
     <Compile Include="Assets\Scripts\Singleton\ResultScene\ResultBGM.cs" />
     <Compile Include="Assets\Data\Scripts\UI\UIDataBase.cs" />
-    <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\MessageManager.cs" />
     <Compile Include="Assets\3DModel\UnityChan\Scripts\CameraController.cs" />
     <Compile Include="Assets\UnityChan.SpringBone\Script\SpringBone\Colliders\Circle3.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\GameScene\Notes\NotesManager.cs" />
@@ -213,7 +209,6 @@
     <Compile Include="Assets\Samples\Universal RP\15.0.6\URP Package Samples\SharedAssets\Scripts\AutoLoadPipelineAsset.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Samples\Universal RP\15.0.6\URP Package Samples\SharedAssets\Scripts\FirstPersonController.cs" />
-    <Compile Include="Assets\Scripts\SceneScripts\GameScene\Judge\JudgeType.cs" />
     <Compile Include="Assets\Data\Scripts\Movie\TutorialMovieData.cs" />
     <Compile Include="Assets\Kawaii Slimes\Scripts\GameManager.cs" />
     <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\AbstractTargetFollower.cs" />
