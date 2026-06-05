@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7ed0a6fd0980b44793825cd2d072a75, type: 3}
+  m_Name: TutorialDamage
+  m_EditorClassIdentifier: 
+  type: 3
+  moviePath: TutorialDamage.mp4
+  loop: 1
+  descriptionName: "\u30B8\u30E3\u30F3\u30D7\u3067\u907F\u3051\u3089\u308C\u306A\u3044\u5834\u5408\u306F\u6A2A\u79FB\u52D5!"
+  tutorialDisplayName: "\u6A2A\u79FB\u52D5"
