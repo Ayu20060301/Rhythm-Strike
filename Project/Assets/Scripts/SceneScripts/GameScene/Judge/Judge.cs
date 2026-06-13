@@ -82,8 +82,6 @@ public class Judge : MonoBehaviour
         //HPが0になった場合は処理をしない
         if (_playerHp.currentHp <= 0) return;
 
-
-
         //ポーズ中は判定をやめる
         if (GManager.instance.isPause)
         {
@@ -354,9 +352,6 @@ public class Judge : MonoBehaviour
 
 
     }
-
-
-
 
     /// <summary>
     /// ノーツインデックスが有効かチェック
